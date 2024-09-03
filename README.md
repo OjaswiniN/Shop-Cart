@@ -31,12 +31,3 @@ This project implements a basic shopping cart system using C++. It provides func
 
 4. **Checkout**:
    - Users pay for their items. The system checks if the amount paid is sufficient and provides change if necessary.
-
-## Usage
-1. Run the program.
-2. Select an action:
-   - `(a)` Add item to cart
-   - `(v)` View cart
-   - `(c)` Checkout
-3. Follow the prompts to add items, view your cart, or complete your purchase.
-
